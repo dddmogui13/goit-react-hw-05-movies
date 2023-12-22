@@ -19,7 +19,7 @@
 .button {
     height: 40px;
     padding: 10px;
-    background-color: #73b8aa;
+    background-color:#024e29;
     color: white;
     border: none;
     border-radius: 5px;
@@ -28,5 +28,5 @@
 }
  
 .button:hover {
-    background-color: #3f7b6f;
+    background-color:#024e29;
 }
