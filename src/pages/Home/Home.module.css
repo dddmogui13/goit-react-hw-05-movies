@@ -1,0 +1,9 @@
+.section {
+    margin-left: 30px;
+}
+
+.title {
+    font-size: 35px;
+    color: rgba(85, 99, 119, 0.8);
+    text-shadow: rgb(53, 57, 14) 2px 2px 2px;
+}

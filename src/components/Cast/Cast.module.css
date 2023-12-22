@@ -1,0 +1,23 @@
+.list {
+    margin-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.item {
+    min-width: 182px;
+    font-size: 14px;
+    padding: 6px;
+    max-width: min-content;
+    background-color: rgb(216, 226, 223);
+    border-radius: 14px;
+}
+
+.image {
+    margin-left: 15px;
+}
+
+.text {
+    font-size: 12px;
+}
